@@ -3,7 +3,6 @@ language: en | es
 twitter: YourTwitterHandle
 tags:
   - optional
-  - node
 
 ---
 
